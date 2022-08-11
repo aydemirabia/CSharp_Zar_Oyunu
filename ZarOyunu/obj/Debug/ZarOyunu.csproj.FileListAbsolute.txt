@@ -1,0 +1,10 @@
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\ZarOyunu\bin\Debug\ZarOyunu.exe.config
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\ZarOyunu\bin\Debug\ZarOyunu.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\ZarOyunu\bin\Debug\ZarOyunu.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\ZarOyunu\obj\Debug\ZarOyunu.csproj.AssemblyReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\ZarOyunu\obj\Debug\ZarOyunu.Form1.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\ZarOyunu\obj\Debug\ZarOyunu.Properties.Resources.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\ZarOyunu\obj\Debug\ZarOyunu.csproj.GenerateResource.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\ZarOyunu\obj\Debug\ZarOyunu.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\ZarOyunu\obj\Debug\ZarOyunu.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\ZarOyunu\obj\Debug\ZarOyunu.pdb
